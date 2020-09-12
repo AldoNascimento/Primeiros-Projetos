@@ -1,0 +1,27 @@
+body{
+    background: #1C1C1C1C
+}
+
+#imagem1{
+    width: 100%;
+    height: 250px;
+}
+
+h1{
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#missao{
+    front-size: 20px
+}
+em strong{
+    color: blue;
+}
+
+.itens{
+    
+}
